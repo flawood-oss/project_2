@@ -1,6 +1,1 @@
-# my first time trying gitignore
-/*.txt
-
-#giu lai logg folder nhung van track file originn
-
-!logg/.originn.txt
+*.txt
